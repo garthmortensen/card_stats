@@ -1,0 +1,36 @@
+metric,creditcardtype,lower_risk,typical,higher_risk
+creditcardtype,General purpose,97.68,93.74,86.55
+creditcardtype,Private label,2.32,6.26,13.45
+currentcreditlimit,"$1,500 and less",1.98,4.08,15.66
+currentcreditlimit,"$1,501-$7,500",23.49,53.53,65.4
+currentcreditlimit,"Over $7,500",74.53,42.39,18.94
+dayspastdue,30+ Days past due,,3.79,5.02
+dayspastdue,Current,100.0,96.21,94.98
+producttype,Co-brand,23.18,8.87,16.74
+producttype,Other,76.82,91.13,83.26
+activeflag,Open and active,100.0,100.0,98.6
+activeflag,Other,,,1.4
+accountoriginationyear,2016 and prior,58.42,59.06,43.89
+accountoriginationyear,2017,6.33,7.18,19.03
+accountoriginationyear,2018,11.8,12.08,9.42
+accountoriginationyear,2019,15.57,8.18,16.49
+accountoriginationyear,2020,7.88,13.5,11.17
+monthendclosedrevokedflag,Closed,,,1.4
+monthendclosedrevokedflag,Not closed,100.0,100.0,98.6
+cycleendingbalance_grouped,"$1,000-$1,999",9.52,8.43,14.91
+cycleendingbalance_grouped,"$10,000 and over",29.61,31.3,9.23
+cycleendingbalance_grouped,"$2,000-$2,999",9.24,13.86,20.76
+cycleendingbalance_grouped,"$3,000-$4,999",15.89,16.82,22.74
+cycleendingbalance_grouped,"$5,000-$9,999",30.21,21.37,24.91
+cycleendingbalance_grouped,"Under $1,000",5.53,8.21,7.46
+borrowerincome,"$50,000 and less",47.58,50.26,46.83
+borrowerincome,"$50,001-$100,000",16.65,18.93,24.25
+borrowerincome,"Over $100,000",35.77,30.81,28.92
+originalcreditlimit,"$1,500 and less",7.94,26.52,47.74
+originalcreditlimit,"$1,501-$7,500",55.82,39.89,47.67
+originalcreditlimit,"Over $7,500",36.24,33.6,4.59
+cycleendingretailapr,12pct-14.99pct,15.31,26.44,13.7
+cycleendingretailapr,15pct-19.99pct,25.52,17.12,23.79
+cycleendingretailapr,20pct-23.99pct,20.47,6.58,20.52
+cycleendingretailapr,24pct and over,12.65,8.49,24.94
+cycleendingretailapr,Under 12pct,26.05,41.36,17.06

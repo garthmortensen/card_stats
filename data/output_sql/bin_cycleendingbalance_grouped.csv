@@ -1,0 +1,7 @@
+metric,cycleendingbalance_grouped,lower_risk,typical,higher_risk
+cycleendingbalance_grouped,"$1,000-$1,999",9.52,8.43,14.91
+cycleendingbalance_grouped,"$10,000 and over",29.61,31.3,9.23
+cycleendingbalance_grouped,"$2,000-$2,999",9.24,13.86,20.76
+cycleendingbalance_grouped,"$3,000-$4,999",15.89,16.82,22.74
+cycleendingbalance_grouped,"$5,000-$9,999",30.21,21.37,24.91
+cycleendingbalance_grouped,"Under $1,000",5.53,8.21,7.46

@@ -1,0 +1,3 @@
+metric,dayspastdue,lower_risk,typical,higher_risk
+dayspastdue,30+ Days past due,,3.79,5.02
+dayspastdue,Current,100.0,96.21,94.98
