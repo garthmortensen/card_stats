@@ -170,3 +170,4 @@ engine.execute(query_union)
 query_select = f"select * from {table}"
 df = pd.read_sql(query_select, con=engine)
 df.to_csv(data_out + f"/{table}.csv", index=False)
+df.to_html(data_out + f"/{table}.html", index=False)
