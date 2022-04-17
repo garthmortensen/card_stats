@@ -1,0 +1,4 @@
+metric,borrowerincome,lower_risk,typical,higher_risk
+borrowerincome,"$50,000 and less",47.58,50.26,46.83
+borrowerincome,"$50,001-$100,000",16.65,18.93,24.25
+borrowerincome,"Over $100,000",35.77,30.81,28.92

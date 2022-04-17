@@ -1,0 +1,4 @@
+metric,currentcreditlimit,lower_risk,typical,higher_risk
+currentcreditlimit,"$1,500 and less",1.98,4.08,15.66
+currentcreditlimit,"$1,501-$7,500",23.49,53.53,65.4
+currentcreditlimit,"Over $7,500",74.53,42.39,18.94
